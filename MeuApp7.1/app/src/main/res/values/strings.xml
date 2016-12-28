@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meu App 7.1</string>
+    <string name="toast_message">Meu primeiro toast</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.rogerpaviani.meuapp51.MainActivity">
+
+    <TextView
+        android:text="Dialogs !!!!!!"
+        android:textSize="30sp"
+        android:padding="10dip"
+        android:textColor="#00aaff"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+    <Button
+        android:onClick="onClickAlert"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alert!">
+    </Button>
+
+    <Button
+        android:onClick="onClickProgress"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Progress!" />
+
+    <Button
+        android:onClick="onClickDatePicker"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DatePicker!"/>
+
+    <Button
+        android:onClick="onClickTime"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Time! "/>
+</LinearLayout>
