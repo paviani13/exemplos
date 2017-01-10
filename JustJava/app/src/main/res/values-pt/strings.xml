@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java Brasil</string>
+    <string name="chocolate_checkbox">Chocolate</string>
+    <string name="hint_name_field">Nome</string>
+    <string name="intent_action_send_to_extra_subject">Pedido do Just Java Brasil para</string>
+    <string name="order_button">Pedido</string>
+    <string name="order_summary_header_textview">Resumo do pedido</string>
+    <string name="price_message_add_chocolate">Adicionar chocolate? <xliff id="add_whipped_cream" example="true">%b</xliff></string>
+    <string name="price_message_add_whipped_cream">Adicionar chantili? <xliff id="add_whipped_cream" example="true">%b</xliff></string>
+    <string name="price_message_name">Name: <xliff id="name" example="Amy">%S</xliff></string>
+    <string name="price_message_quantity">Quantidade:  <xliff id="quantity" example="1">%d</xliff></string>
+    <string name="price_message_thank_you">Obrigado!</string>
+    <string name="price_message_total">Total: <xliff id="total" example="5">%s</xliff></string>
+    <string name="quantity_header_textview">Quantidade</string>
+    <string name="topping_header_textview">Cobertura</string>
+    <string name="whipped_cream_checkbox">Chantili</string>
+</resources>

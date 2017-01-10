@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="hint_name_field">Name</string>
+    <string name="topping_header_textview">Topping</string>
+    <string name="whipped_cream_checkbox">Whipped cream</string>
+    <string name="chocolate_checkbox">Chocolate</string>
+    <string name="quantity_header_textview">Quantity</string>
+    <string name="order_summary_header_textview">Order summary</string>
+    <string name="order_button">Order</string>
+    <string name="intent_action_send_to_extra_subject">JustJava order for </string>
+    <string name="price_message_name">Name: <xliff id="name" example="Amy">%S</xliff></string>
+    <string name="price_message_add_whipped_cream">Add whipped cream? <xliff id="add_whipped_cream" example="true">%b</xliff></string>
+    <string name="price_message_add_chocolate">Add chocolate? <xliff id="add_whipped_cream" example="true">%b</xliff></string>
+    <string name="price_message_quantity">Quantity:  <xliff id="quantity" example="1">%d</xliff></string>
+    <string name="price_message_total">Total:  <xliff id="total" example="5">%s</xliff></string>
+    <string name="price_message_thank_you">Thank You!</string>
+</resources>
